@@ -43,7 +43,7 @@ html, body{
     padding: 0.6rem;
     margin-right: 1rem;
     border-radius: 50%;
-    transition: 0.3s;
+    transition: 0.5s;
     text-decoration: none;
 }
 
@@ -182,3 +182,6 @@ i.menu-mobile{
     border-radius: 7%;
 }
 
+.section-bg {
+    background-color: #eff5ff;
+}
