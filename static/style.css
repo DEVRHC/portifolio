@@ -228,3 +228,12 @@ i.menu-mobile{
     border-radius: 50%;
 }
 
+/* Animations */
+
+[data-anime] {
+    opacity: 0;
+    transition: 1s
+}
+[data-anime="down"] {
+    transform: translate(0, 0, 0);
+}
